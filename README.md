@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ... Zoey Lee
-- 👀 I’m interested in ... Back-end Engineering
-- 🌱 I’m currently learning ... Java + Spring Framework
+- 👀 I’m interested in ... Back-end Engineering + Front-end
+- 🌱 I’m currently learning ... Java + Spring Framework + Javascript
 - 💞️ I’m looking to collaborate on ... N/A
 - 📫 How to reach me ... wngpsid@naver.com
